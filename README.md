@@ -7,6 +7,7 @@ A modern color theme based on the docs of the UI kit [Catalyst](https://tailwind
 To get the best experience out of Catalyst Theme, please follow the following configuration instructions:
 
 1. Install the font [Fira Code](https://github.com/tonsky/FiraCode/releases/latest) from GitHub. Then add this code to your VScode `settings.json` file: 
+
 ```
 "editor.fontFamily": "Fira Code",
 "editor.fontLigatures": true,
@@ -14,4 +15,6 @@ To get the best experience out of Catalyst Theme, please follow the following co
 "editor.bracketPairColorization.enabled": false,
 ```
 
-2. There is a second theme in this extension called **Tailwind Catalyst - Colored Status Bar**. Try it out, see if you prefer it.
+2. Want to spice up your Status Bar? Try enabling **Tailwind Catalyst - Colored Status Bar** as your color theme, and see if you prefer it.
+
+3. Enjoy!

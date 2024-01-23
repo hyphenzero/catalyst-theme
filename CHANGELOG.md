@@ -13,3 +13,13 @@
 ## [1.0.2]
 
 - Fix README links
+
+## [1.0.3]
+
+- Change Status Bar colors
+- Add some new colors for UI elements
+- Update `README.md`
+
+## [1.0.4]
+
+- Small tweaks
