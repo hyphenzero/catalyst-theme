@@ -4,7 +4,7 @@
   "description": "A modern color theme based on the docs of the UI kit \"Catalyst\" by Tailwind Labs",
   "publisher": "hyphenzero",
   "icon": "images/icon.png",
-  "version": "0.1.0",
+  "version": "1.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/hyphenzero/tailwind-catalyst-theme"
