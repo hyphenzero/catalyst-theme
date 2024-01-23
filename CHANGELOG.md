@@ -4,3 +4,8 @@
 
 - Initial release
 - Includes themes **"Tailwind Catalyst"** and **"Tailwind Catalyst - Colored Status Bar"**
+
+## [1.0.1]
+
+- New `icon.png`
+- Change version format
