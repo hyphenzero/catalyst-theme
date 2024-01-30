@@ -19,8 +19,9 @@
 		"statusBar.background": "#7dd3fc",
 		"statusBar.foreground": "#18181b",
 		"activityBarBadge.background": "#7dd3fc",
+		"activityBarBadge.foreground": "#18181b",
 		"statusBar.noFolderBackground": "#3f3f46",
-		"statusBar.debuggingBackground": "#7dd3fc",
+		"statusBar.debuggingBackground": "#a78bfa",
 		"tab.activeBorderTop": "#7dd3fc",
 		"tab.activeBorder": "#09090b",
 		"editorGroupHeader.tabsBorder": "#3f3f46",
@@ -239,7 +240,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#FDA4AF"
+				"foreground": "#FDE68A"
 			}
 		},
 		{

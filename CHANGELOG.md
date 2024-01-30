@@ -23,3 +23,8 @@
 ## [1.0.4]
 
 - Small tweaks
+
+## [1.0.5]
+
+- Change activity notification badge foreground color on `Colored Status Bar` mode to improve readability
+- Change Activity Bar debugging colors

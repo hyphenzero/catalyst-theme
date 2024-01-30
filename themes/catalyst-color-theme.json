@@ -20,6 +20,7 @@
 		"statusBar.foreground": "#D1D5DB",
 		"statusBar.noFolderBackground": "#3f3f46",
 		"statusBar.debuggingBackground": "#7dd3fc",
+		"statusBar.debuggingForeground": "#18181b",
 		"activityBarBadge.background": "#52525b",
 		"tab.activeBorderTop": "#7dd3fc",
 		"tab.activeBorder": "#09090b",
@@ -240,7 +241,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#FDA4AF"
+				"foreground": "#FDE68A"
 			}
 		},
 		{
