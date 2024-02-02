@@ -28,3 +28,7 @@
 
 - Change activity notification badge foreground color on `Colored Status Bar` mode to improve readability
 - Change Activity Bar debugging colors
+
+## [1.1.0]
+
+- Add `json` support (8 levels)
