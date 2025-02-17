@@ -1,32 +1,28 @@
 {
-  "name": "catalyst-theme",
-  "displayName": "Tailwind Catalyst Theme",
-  "description": "A modern color theme based on the docs of the UI kit \"Catalyst\" by Tailwind Labs",
-  "publisher": "hyphenzero",
-  "icon": "images/icon.png",
-  "version": "1.1.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/hyphenzero/tailwind-catalyst-theme"
-  },
-  "engines": {
-    "vscode": "^1.85.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Tailwind Catalyst",
-        "uiTheme": "vs-dark",
-        "path": "./themes/catalyst-color-theme.json"
-      },
+	"name": "tailwind-catalyst-theme",
+	"displayName": "Tailwind Catalyst Theme",
+	"description": "A modern color theme based on the docs of the UI kit \"Catalyst\" by Tailwind Labs",
+	"publisher": "hyphenzero",
+	"icon": "images/icon.png",
+	"version": "2.0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hyphenzero/tailwind-catalyst-theme"
+	},
+	"engines": {
+		"vscode": "*"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
 			{
-        "label": "Tailwind Catalyst - Colored Status Bar",
-        "uiTheme": "vs-dark",
-        "path": "./themes/catalyst-colored-statusbar-color-theme.json"
-      }
-    ]
-  }
+				"label": "Tailwind Catalyst",
+				"uiTheme": "vs-dark",
+				"path": "./themes/catalyst-dark.json"
+			}
+		]
+	},
+	"packageManager": "pnpm@9.15.4"
 }

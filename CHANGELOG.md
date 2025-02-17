@@ -1,34 +1,36 @@
-# Change Log
+# Changelog
 
-## [0.1.0]
+## [2.0.0]
 
-- Initial release
-- Includes themes **"Tailwind Catalyst"** and **"Tailwind Catalyst - Colored Status Bar"**
+- Rewrite with support for more languages and greatly improved colors
 
-## [1.0.1]
+## [1.1.0]
 
-- New `icon.png`
-- Change version format
+- Improve `json` support
 
-## [1.0.2]
+## [1.0.5]
 
-- Fix README links
-
-## [1.0.3]
-
-- Change Status Bar colors
-- Add some new colors for UI elements
-- Update `README.md`
+- Update activity notification badge foreground color on `Colored Status Bar` mode to improve readability
+- Update Activity Bar debugging colors
 
 ## [1.0.4]
 
 - Small tweaks
 
-## [1.0.5]
+## [1.0.3]
 
-- Change activity notification badge foreground color on `Colored Status Bar` mode to improve readability
-- Change Activity Bar debugging colors
+- Update Status Bar colors
+- Update UI element colors
+- Update `README.md`
 
-## [1.1.0]
+## [1.0.2]
 
-- Add `json` support (8 levels)
+- Fix README links
+
+## [1.0.1]
+
+- Update `icon.png`
+
+## [1.0.0]
+
+- Initial release
