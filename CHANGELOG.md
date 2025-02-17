@@ -8,6 +8,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 - Nothing yet!
 
+## [2.0.1] - 2025-02-17
+
+- Fix theme path
+
 ## [2.0.0] - 2025-02-17
 
 - Rewrite with support for more languages and greatly improved colors
