@@ -1,5 +1,5 @@
 {
-	"name": "tailwind-catalyst-theme",
+	"name": "catalyst-theme",
 	"displayName": "Tailwind Catalyst Theme",
 	"description": "A modern color theme based on the docs of the UI kit \"Catalyst\" by Tailwind Labs",
 	"publisher": "hyphenzero",
@@ -20,7 +20,7 @@
 			{
 				"label": "Tailwind Catalyst",
 				"uiTheme": "vs-dark",
-				"path": "./themes/catalyst-dark.json"
+				"path": "./themes/catalyst.json"
 			}
 		]
 	},
